@@ -1,0 +1,1411 @@
+series: [{
+        name: 'Asia',
+        data:[
+  {
+    "country": "Afghanistan",
+    "Code": "AFG",
+    "indoor deaths": 134.9937531,
+    "outdoor deaths": 45.73766239
+  },
+  {
+    "country": "Armenia",
+    "Code": "ARM",
+    "indoor deaths": 11.90403664,
+    "outdoor deaths": 50.07469349
+  },
+  {
+    "country": "Azerbaijan",
+    "Code": "AZE",
+    "indoor deaths": 20.75141979,
+    "outdoor deaths": 56.9227866
+  },
+  {
+    "country": "Bahrain",
+    "Code": "BHR",
+    "indoor deaths": 0.280331589,
+    "outdoor deaths": 60.42661075
+  },
+  {
+    "country": "Bangladesh",
+    "Code": "BGD",
+    "indoor deaths": 61.98537817,
+    "outdoor deaths": 41.48537925
+  },
+  {
+    "country": "Brunei",
+    "Code": "BRN",
+    "indoor deaths": 0.16086464,
+    "outdoor deaths": 19.09333592
+  },
+  {
+    "country": "Cambodia",
+    "Code": "KHM",
+    "indoor deaths": 84.71483473,
+    "outdoor deaths": 21.83241823
+  },
+  {
+    "country": "China",
+    "Code": "CHN",
+    "indoor deaths": 15.8036408,
+    "outdoor deaths": 49.36714161
+  },
+  {
+    "country": "Georgia",
+    "Code": "GEO",
+    "indoor deaths": 31.72455336,
+    "outdoor deaths": 36.63293489
+  },
+  {
+    "country": "India",
+    "Code": "IND",
+    "indoor deaths": 51.02743957,
+    "outdoor deaths": 70.80343542
+  },
+  {
+    "country": "Indonesia",
+    "Code": "IDN",
+    "indoor deaths": 36.49701995,
+    "outdoor deaths": 27.45885025
+  },
+  {
+    "country": "Iran",
+    "Code": "IRN",
+    "indoor deaths": 0.270711728,
+    "outdoor deaths": 43.69164273
+  },
+  {
+    "country": "Iraq",
+    "Code": "IRQ",
+    "indoor deaths": 0.206546238,
+    "outdoor deaths": 41.62225829
+  },
+  {
+    "country": "Israel",
+    "Code": "ISR",
+    "indoor deaths": 0.16660773,
+    "outdoor deaths": 19.40327541
+  },
+  {
+    "country": "Japan",
+    "Code": "JPN",
+    "indoor deaths": 0.026306511,
+    "outdoor deaths": 10.29293607
+  },
+  {
+    "country": "Jordan",
+    "Code": "JOR",
+    "indoor deaths": 0.01931844,
+    "outdoor deaths": 37.74667014
+  },
+  {
+    "country": "Kazakhstan",
+    "Code": "KAZ",
+    "indoor deaths": 13.20775629,
+    "outdoor deaths": 35.86610137
+  },
+  {
+    "country": "Kuwait",
+    "Code": "KWT",
+    "indoor deaths": 0.048169641,
+    "outdoor deaths": 34.11354155
+  },
+  {
+    "country": "Kyrgyzstan",
+    "Code": "KGZ",
+    "indoor deaths": 30.61034948,
+    "outdoor deaths": 35.81680589
+  },
+  {
+    "country": "Laos",
+    "Code": "LAO",
+    "indoor deaths": 90.3679562,
+    "outdoor deaths": 26.57508171
+  },
+  {
+    "country": "Latin America and Caribbean",
+    "Code": "",
+    "indoor deaths": 9.337219501,
+    "outdoor deaths": 24.20310074
+  },
+  {
+    "country": "Lebanon",
+    "Code": "LBN",
+    "indoor deaths": 0.010723395,
+    "outdoor deaths": 47.52136779
+  },
+  {
+    "country": "Malaysia",
+    "Code": "MYS",
+    "indoor deaths": 2.190019631,
+    "outdoor deaths": 46.8584811
+  },
+  {
+    "country": "Maldives",
+    "Code": "MDV",
+    "indoor deaths": 5.974968691,
+    "outdoor deaths": 13.18567577
+  },
+  {
+    "country": "Mongolia",
+    "Code": "MNG",
+    "indoor deaths": 34.28080868,
+    "outdoor deaths": 46.07859845
+  },
+  {
+    "country": "Myanmar",
+    "Code": "MMR",
+    "indoor deaths": 72.58260824,
+    "outdoor deaths": 38.29937346
+  },
+  {
+    "country": "Nepal",
+    "Code": "NPL",
+    "indoor deaths": 57.74157089,
+    "outdoor deaths": 64.98809155
+  },
+  {
+    "country": "North Korea",
+    "Code": "PRK",
+    "indoor deaths": 87.42913932,
+    "outdoor deaths": 35.78864562
+  },
+  {
+    "country": "Northern Ireland",
+    "Code": "",
+    "indoor deaths": 0.285850561,
+    "outdoor deaths": 15.1307555
+  },
+  {
+    "country": "Oman",
+    "Code": "OMN",
+    "indoor deaths": 0.502894417,
+    "outdoor deaths": 52.42601767
+  },
+  {
+    "country": "Pakistan",
+    "Code": "PAK",
+    "indoor deaths": 55.96422822,
+    "outdoor deaths": 60.70407622
+  },
+  {
+    "country": "Palestine",
+    "Code": "PSE",
+    "indoor deaths": 0.57978953,
+    "outdoor deaths": 50.33949466
+  },
+  {
+    "country": "Qatar",
+    "Code": "QAT",
+    "indoor deaths": 0.003858714,
+    "outdoor deaths": 60.32076372
+  },
+  {
+    "country": "Saudi Arabia",
+    "Code": "SAU",
+    "indoor deaths": 0.162205962,
+    "outdoor deaths": 62.14309684
+  },
+  {
+    "country": "Singapore",
+    "Code": "SGP",
+    "indoor deaths": 0.035673999,
+    "outdoor deaths": 19.29837689
+  },
+  {
+    "country": "South Korea",
+    "Code": "KOR",
+    "indoor deaths": 0.015175744,
+    "outdoor deaths": 20.12307511
+  },
+  {
+    "country": "Sri Lanka",
+    "Code": "LKA",
+    "indoor deaths": 25.16209966,
+    "outdoor deaths": 12.83279698
+  },
+  {
+    "country": "Sub-Saharan Africa",
+    "Code": "",
+    "indoor deaths": 72.18739463,
+    "outdoor deaths": 28.93596419
+  },
+  {
+    "country": "Syria",
+    "Code": "SYR",
+    "indoor deaths": 0.088204618,
+    "outdoor deaths": 62.06124074
+  },
+  {
+    "country": "Taiwan",
+    "Code": "TWN",
+    "indoor deaths": 1.583705492,
+    "outdoor deaths": 28.21611917
+  },
+  {
+    "country": "Tajikistan",
+    "Code": "TJK",
+    "indoor deaths": 39.95346535,
+    "outdoor deaths": 52.36181318
+  },
+  {
+    "country": "Thailand",
+    "Code": "THA",
+    "indoor deaths": 6.704581833,
+    "outdoor deaths": 25.44783111
+  },
+  {
+    "country": "Timor",
+    "Code": "TLS",
+    "indoor deaths": 78.41731941,
+    "outdoor deaths": 18.03969053
+  },
+  {
+    "country": "Turkey",
+    "Code": "TUR",
+    "indoor deaths": 0.400058689,
+    "outdoor deaths": 43.12637267
+  },
+  {
+    "country": "Turkmenistan",
+    "Code": "TKM",
+    "indoor deaths": 0.444896732,
+    "outdoor deaths": 65.65694225
+  },
+  {
+    "country": "United Arab Emirates",
+    "Code": "ARE",
+    "indoor deaths": 0.278385207,
+    "outdoor deaths": 73.72327254
+  },
+  {
+    "country": "Uzbekistan",
+    "Code": "UZB",
+    "indoor deaths": 23.63350658,
+    "outdoor deaths": 79.784633
+  },
+  {
+    "country": "Vietnam",
+    "Code": "VNM",
+    "indoor deaths": 25.63626388,
+    "outdoor deaths": 32.80021105
+  },
+  {
+    "country": "Wales",
+    "Code": "",
+    "indoor deaths": 0.408713817,
+    "outdoor deaths": 16.5986085
+  },
+  {
+    "country": "Yemen",
+    "Code": "YEM",
+    "indoor deaths": 36.35533376,
+    "outdoor deaths": 58.03978474
+  }
+]
+ }, {
+        name: 'Africa',
+        data: [
+  {
+    "country": "Algeria",
+    "Code": "DZA",
+    "indoor deaths": 0.191766503,
+    "outdoor deaths": 41.97623323
+  },
+  {
+    "country": "Angola",
+    "Code": "AGO",
+    "indoor deaths": 62.19905799,
+    "outdoor deaths": 29.75929262
+  },
+  {
+    "country": "Benin",
+    "Code": "BEN",
+    "indoor deaths": 89.36395534,
+    "outdoor deaths": 22.26813856
+  },
+  {
+    "country": "Burkina Faso",
+    "Code": "BFA",
+    "indoor deaths": 111.0732076,
+    "outdoor deaths": 21.27612463
+  },
+  {
+    "country": "Burundi",
+    "Code": "BDI",
+    "indoor deaths": 118.5665404,
+    "outdoor deaths": 22.12083842
+  },
+  {
+    "country": "Cameroon",
+    "Code": "CMR",
+    "indoor deaths": 57.17836064,
+    "outdoor deaths": 54.99003408
+  },
+  {
+    "country": "Cape Verde",
+    "Code": "CPV",
+    "indoor deaths": 24.63158195,
+    "outdoor deaths": 25.4964979
+  },
+  {
+    "country": "Caribbean",
+    "Code": "",
+    "indoor deaths": 18.59251431,
+    "outdoor deaths": 26.70996418
+  },
+  {
+    "country": "Central African Republic",
+    "Code": "CAF",
+    "indoor deaths": 153.3414568,
+    "outdoor deaths": 43.15760017
+  },
+  {
+    "country": "Central Asia",
+    "Code": "",
+    "indoor deaths": 21.90708545,
+    "outdoor deaths": 54.77492589
+  },
+  {
+    "country": "Central Europe",
+    "Code": "",
+    "indoor deaths": 7.396395104,
+    "outdoor deaths": 30.23324073
+  },
+  {
+    "country": "Central Europe, Eastern Europe, and Central Asia",
+    "Code": "",
+    "indoor deaths": 6.040145458,
+    "outdoor deaths": 41.63921324
+  },
+  {
+    "country": "Central Latin America",
+    "Code": "",
+    "indoor deaths": 10.28877668,
+    "outdoor deaths": 25.61843539
+  },
+  {
+    "country": "Central Sub-Saharan Africa",
+    "Code": "",
+    "indoor deaths": 97.10208607,
+    "outdoor deaths": 31.15296329
+  },
+  {
+    "country": "Chad",
+    "Code": "TCD",
+    "indoor deaths": 126.1919321,
+    "outdoor deaths": 31.13891317
+  },
+  {
+    "country": "Comoros",
+    "Code": "COM",
+    "indoor deaths": 77.29998015,
+    "outdoor deaths": 16.15860945
+  },
+  {
+    "country": "Congo",
+    "Code": "COG",
+    "indoor deaths": 59.20779607,
+    "outdoor deaths": 51.35530456
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "Code": "CIV",
+    "indoor deaths": 96.25337526,
+    "outdoor deaths": 21.82017138
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "Code": "COD",
+    "indoor deaths": 110.9057683,
+    "outdoor deaths": 28.20791744
+  },
+  {
+    "country": "Denmark",
+    "Code": "DNK",
+    "indoor deaths": 0.103695525,
+    "outdoor deaths": 16.77503004
+  },
+  {
+    "country": "Djibouti",
+    "Code": "DJI",
+    "indoor deaths": 32.24147876,
+    "outdoor deaths": 46.90101673
+  },
+  {
+    "country": "Egypt",
+    "Code": "EGY",
+    "indoor deaths": 0.726384217,
+    "outdoor deaths": 109.6162665
+  },
+  {
+    "country": "Equatorial Guinea",
+    "Code": "GNQ",
+    "indoor deaths": 38.69715608,
+    "outdoor deaths": 38.81393882
+  },
+  {
+    "country": "Eritrea",
+    "Code": "ERI",
+    "indoor deaths": 94.84387619,
+    "outdoor deaths": 35.67072414
+  },
+  {
+    "country": "Eswatini",
+    "Code": "SWZ",
+    "indoor deaths": 63.4518771,
+    "outdoor deaths": 39.07458229
+  },
+  {
+    "country": "Ethiopia",
+    "Code": "ETH",
+    "indoor deaths": 70.59407937,
+    "outdoor deaths": 17.2425537
+  },
+  {
+    "country": "Gabon",
+    "Code": "GAB",
+    "indoor deaths": 10.87468633,
+    "outdoor deaths": 60.28809483
+  },
+  {
+    "country": "Gambia",
+    "Code": "GMB",
+    "indoor deaths": 106.754078,
+    "outdoor deaths": 26.3111261
+  },
+  {
+    "country": "Ghana",
+    "Code": "GHA",
+    "indoor deaths": 68.40700025,
+    "outdoor deaths": 36.15416493
+  },
+  {
+    "country": "Guinea",
+    "Code": "GIN",
+    "indoor deaths": 140.1710927,
+    "outdoor deaths": 18.73494101
+  },
+  {
+    "country": "Guinea-Bissau",
+    "Code": "GNB",
+    "indoor deaths": 137.3431097,
+    "outdoor deaths": 22.98062061
+  },
+  {
+    "country": "Kenya",
+    "Code": "KEN",
+    "indoor deaths": 66.45898981,
+    "outdoor deaths": 22.71497201
+  },
+  {
+    "country": "Lesotho",
+    "Code": "LSO",
+    "indoor deaths": 102.0115109,
+    "outdoor deaths": 45.49581573
+  },
+  {
+    "country": "Liberia",
+    "Code": "LBR",
+    "indoor deaths": 102.801722,
+    "outdoor deaths": 9.746902897
+  },
+  {
+    "country": "Libya",
+    "Code": "LBY",
+    "indoor deaths": 0.048323227,
+    "outdoor deaths": 70.29779464
+  },
+  {
+    "country": "Madagascar",
+    "Code": "MDG",
+    "indoor deaths": 137.594862,
+    "outdoor deaths": 16.3855838
+  },
+  {
+    "country": "Malawi",
+    "Code": "MWI",
+    "indoor deaths": 90.7620248,
+    "outdoor deaths": 12.64438931
+  },
+  {
+    "country": "Mali",
+    "Code": "MLI",
+    "indoor deaths": 91.68252958,
+    "outdoor deaths": 13.93552762
+  },
+  {
+    "country": "Mauritania",
+    "Code": "MRT",
+    "indoor deaths": 48.32151087,
+    "outdoor deaths": 34.56624942
+  },
+  {
+    "country": "Mauritius",
+    "Code": "MUS",
+    "indoor deaths": 3.426270277,
+    "outdoor deaths": 44.60339225
+  },
+  {
+    "country": "Morocco",
+    "Code": "MAR",
+    "indoor deaths": 2.325253116,
+    "outdoor deaths": 63.17102389
+  },
+  {
+    "country": "Mozambique",
+    "Code": "MOZ",
+    "indoor deaths": 111.1258092,
+    "outdoor deaths": 13.54320931
+  },
+  {
+    "country": "Namibia",
+    "Code": "NAM",
+    "indoor deaths": 41.62359599,
+    "outdoor deaths": 30.42583531
+  },
+  {
+    "country": "Niger",
+    "Code": "NER",
+    "indoor deaths": 109.0242846,
+    "outdoor deaths": 27.90124883
+  },
+  {
+    "country": "Nigeria",
+    "Code": "NGA",
+    "indoor deaths": 44.65023673,
+    "outdoor deaths": 35.36821752
+  },
+  {
+    "country": "Rwanda",
+    "Code": "RWA",
+    "indoor deaths": 74.04282801,
+    "outdoor deaths": 21.48466904
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "Code": "STP",
+    "indoor deaths": 74.22618558,
+    "outdoor deaths": 33.31577333
+  },
+  {
+    "country": "Senegal",
+    "Code": "SEN",
+    "indoor deaths": 81.3654671,
+    "outdoor deaths": 23.59981668
+  },
+  {
+    "country": "Seychelles",
+    "Code": "SYC",
+    "indoor deaths": 3.660678959,
+    "outdoor deaths": 38.22685752
+  },
+  {
+    "country": "Sierra Leone",
+    "Code": "SLE",
+    "indoor deaths": 131.611501,
+    "outdoor deaths": 16.67988984
+  },
+  {
+    "country": "Somalia",
+    "Code": "SOM",
+    "indoor deaths": 147.8894878,
+    "outdoor deaths": 17.11434118
+  },
+  {
+    "country": "South Africa",
+    "Code": "ZAF",
+    "indoor deaths": 10.9969022,
+    "outdoor deaths": 44.64444651
+  },
+  {
+    "country": "South Asia",
+    "Code": "",
+    "indoor deaths": 52.53805749,
+    "outdoor deaths": 66.90052674
+  },
+  {
+    "country": "South Sudan",
+    "Code": "SSD",
+    "indoor deaths": 129.4237858,
+    "outdoor deaths": 24.92356244
+  },
+  {
+    "country": "Southeast Asia",
+    "Code": "",
+    "indoor deaths": 35.01660237,
+    "outdoor deaths": 29.8931859
+  },
+  {
+    "country": "Southeast Asia, East Asia, and Oceania",
+    "Code": "",
+    "indoor deaths": 21.25422102,
+    "outdoor deaths": 44.90832184
+  },
+  {
+    "country": "Southern Latin America",
+    "Code": "",
+    "indoor deaths": 2.372909583,
+    "outdoor deaths": 24.71485624
+  },
+  {
+    "country": "Southern Sub-Saharan Africa",
+    "Code": "",
+    "indoor deaths": 25.33879122,
+    "outdoor deaths": 42.13127547
+  },
+  {
+    "country": "Sudan",
+    "Code": "SDN",
+    "indoor deaths": 52.43083263,
+    "outdoor deaths": 41.76431657
+  },
+  {
+    "country": "Tanzania",
+    "Code": "TZA",
+    "indoor deaths": 78.76730456,
+    "outdoor deaths": 16.89103741
+  },
+  {
+    "country": "Togo",
+    "Code": "TGO",
+    "indoor deaths": 89.88397596,
+    "outdoor deaths": 24.00627694
+  },
+  {
+    "country": "Tunisia",
+    "Code": "TUN",
+    "indoor deaths": 0.189651653,
+    "outdoor deaths": 49.35461322
+  },
+  {
+    "country": "Uganda",
+    "Code": "UGA",
+    "indoor deaths": 69.22226959,
+    "outdoor deaths": 23.13923063
+  },
+  {
+    "country": "Western Sub-Saharan Africa",
+    "Code": "",
+    "indoor deaths": 70.14070632,
+    "outdoor deaths": 31.86420599
+  },
+  {
+    "country": "World",
+    "Code": "OWID_WRL",
+    "indoor deaths": 21.46604129,
+    "outdoor deaths": 38.15435671
+  },
+  {
+    "country": "Zambia",
+    "Code": "ZMB",
+    "indoor deaths": 74.84471993,
+    "outdoor deaths": 21.53725328
+  },
+  {
+    "country": "Zimbabwe",
+    "Code": "ZWE",
+    "indoor deaths": 96.23599602,
+    "outdoor deaths": 26.16618236
+  }
+]
+ }, {
+        name: 'Oceania',
+        data: [
+  {
+    "country": "American Samoa",
+    "Code": "ASM",
+    "indoor deaths": 20.31779722,
+    "outdoor deaths": 38.62055628
+  },
+  {
+    "country": "Andean Latin America",
+    "Code": "",
+    "indoor deaths": 10.68905781,
+    "outdoor deaths": 21.47181719
+  },
+  {
+    "country": "Australia",
+    "Code": "AUS",
+    "indoor deaths": 0.083362775,
+    "outdoor deaths": 10.12811059
+  },
+  {
+    "country": "Fiji",
+    "Code": "FJI",
+    "indoor deaths": 57.96317382,
+    "outdoor deaths": 42.52815292
+  },
+  {
+    "country": "Guam",
+    "Code": "GUM",
+    "indoor deaths": 7.626418583,
+    "outdoor deaths": 36.46681471
+  },
+  {
+    "country": "Kiribati",
+    "Code": "KIR",
+    "indoor deaths": 137.0966419,
+    "outdoor deaths": 15.17484099
+  },
+  {
+    "country": "Marshall Islands",
+    "Code": "MHL",
+    "indoor deaths": 54.75998213,
+    "outdoor deaths": 38.10427055
+  },
+  {
+    "country": "Micronesia (country)",
+    "Code": "FSM",
+    "indoor deaths": 57.64769384,
+    "outdoor deaths": 32.30545601
+  },
+  {
+    "country": "Middle SDI",
+    "Code": "",
+    "indoor deaths": 19.00263025,
+    "outdoor deaths": 43.80411297
+  },
+  {
+    "country": "New Zealand",
+    "Code": "NZL",
+    "indoor deaths": 0.130938462,
+    "outdoor deaths": 8.176373379
+  },
+  {
+    "country": "North Africa and Middle East",
+    "Code": "",
+    "indoor deaths": 7.958531857,
+    "outdoor deaths": 55.88758288
+  },
+  {
+    "country": "North America",
+    "Code": "",
+    "indoor deaths": 0.082130147,
+    "outdoor deaths": 14.39943416
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "Code": "MNP",
+    "indoor deaths": 11.02603966,
+    "outdoor deaths": 22.98980175
+  },
+  {
+    "country": "Papua New Guinea",
+    "Code": "PNG",
+    "indoor deaths": 218.8779091,
+    "outdoor deaths": 25.81642228
+  },
+  {
+    "country": "Samoa",
+    "Code": "WSM",
+    "indoor deaths": 60.58533753,
+    "outdoor deaths": 16.24759917
+  },
+  {
+    "country": "Solomon Islands",
+    "Code": "SLB",
+    "indoor deaths": 168.8177865,
+    "outdoor deaths": 18.34299762
+  },
+  {
+    "country": "Tonga",
+    "Code": "TON",
+    "indoor deaths": 46.12549056,
+    "outdoor deaths": 24.6027424
+  },
+  {
+    "country": "Vanuatu",
+    "Code": "VUT",
+    "indoor deaths": 120.4976417,
+    "outdoor deaths": 18.80394708
+  }
+]
+ }, {
+        name: 'South America',
+        data: [
+  {
+    "country": "Argentina",
+    "Code": "ARG",
+    "indoor deaths": 2.260202746,
+    "outdoor deaths": 27.3380539
+  },
+  {
+    "country": "Bolivia",
+    "Code": "BOL",
+    "indoor deaths": 19.63842884,
+    "outdoor deaths": 32.43273565
+  },
+  {
+    "country": "Brazil",
+    "Code": "BRA",
+    "indoor deaths": 5.583721424,
+    "outdoor deaths": 22.94566355
+  },
+  {
+    "country": "Colombia",
+    "Code": "COL",
+    "indoor deaths": 4.40157515,
+    "outdoor deaths": 16.69947541
+  },
+  {
+    "country": "Ecuador",
+    "Code": "ECU",
+    "indoor deaths": 3.113057544,
+    "outdoor deaths": 23.44804757
+  },
+  {
+    "country": "Guyana",
+    "Code": "GUY",
+    "indoor deaths": 15.30613367,
+    "outdoor deaths": 47.46241977
+  },
+  {
+    "country": "Paraguay",
+    "Code": "PRY",
+    "indoor deaths": 26.35801294,
+    "outdoor deaths": 14.62176656
+  },
+  {
+    "country": "Peru",
+    "Code": "PER",
+    "indoor deaths": 11.87558225,
+    "outdoor deaths": 17.89055294
+  },
+  {
+    "country": "Philippines",
+    "Code": "PHL",
+    "indoor deaths": 70.18225729,
+    "outdoor deaths": 35.51927631
+  },
+  {
+    "country": "Suriname",
+    "Code": "SUR",
+    "indoor deaths": 11.35105155,
+    "outdoor deaths": 36.92001981
+  },
+  {
+    "country": "Uruguay",
+    "Code": "URY",
+    "indoor deaths": 1.25798039,
+    "outdoor deaths": 17.8103914
+  },
+  {
+    "country": "Venezuela",
+    "Code": "VEN",
+    "indoor deaths": 0.472980894,
+    "outdoor deaths": 33.0522639
+  }
+]
+}, {
+        name: 'North America',
+        data: [
+  {
+    "country": "Antigua and Barbuda",
+    "Code": "ATG",
+    "indoor deaths": 1.435593983,
+    "outdoor deaths": 30.90778066
+  },
+  {
+    "country": "Australasia",
+    "Code": "",
+    "indoor deaths": 0.09103582,
+    "outdoor deaths": 9.829451256
+  },
+  {
+    "country": "Bahamas",
+    "Code": "BHS",
+    "indoor deaths": 2.020472157,
+    "outdoor deaths": 29.44753377
+  },
+  {
+    "country": "Barbados",
+    "Code": "BRB",
+    "indoor deaths": 0.042679749,
+    "outdoor deaths": 34.91535429
+  },
+  {
+    "country": "Belize",
+    "Code": "BLZ",
+    "indoor deaths": 12.17698152,
+    "outdoor deaths": 30.91941883
+  },
+  {
+    "country": "Bermuda",
+    "Code": "BMU",
+    "indoor deaths": 1.449133422,
+    "outdoor deaths": 15.24663007
+  },
+  {
+    "country": "Bhutan",
+    "Code": "BTN",
+    "indoor deaths": 24.59026121,
+    "outdoor deaths": 40.63592738
+  },
+  {
+    "country": "Canada",
+    "Code": "CAN",
+    "indoor deaths": 0.024770498,
+    "outdoor deaths": 9.11073344
+  },
+  {
+    "country": "Costa Rica",
+    "Code": "CRI",
+    "indoor deaths": 3.640153354,
+    "outdoor deaths": 16.66609543
+  },
+  {
+    "country": "Cuba",
+    "Code": "CUB",
+    "indoor deaths": 1.722008769,
+    "outdoor deaths": 29.61062874
+  },
+  {
+    "country": "Dominica",
+    "Code": "DMA",
+    "indoor deaths": 6.837761311,
+    "outdoor deaths": 30.83747323
+  },
+  {
+    "country": "Dominican Republic",
+    "Code": "DOM",
+    "indoor deaths": 11.25390844,
+    "outdoor deaths": 24.79712076
+  },
+  {
+    "country": "East Asia",
+    "Code": "",
+    "indoor deaths": 16.57713632,
+    "outdoor deaths": 48.70226537
+  },
+  {
+    "country": "El Salvador",
+    "Code": "SLV",
+    "indoor deaths": 16.14333569,
+    "outdoor deaths": 28.62946891
+  },
+  {
+    "country": "England",
+    "Code": "",
+    "indoor deaths": 0.196988607,
+    "outdoor deaths": 16.22855707
+  },
+  {
+    "country": "Greenland",
+    "Code": "GRL",
+    "indoor deaths": 0.595466436,
+    "outdoor deaths": 29.00132838
+  },
+  {
+    "country": "Grenada",
+    "Code": "GRD",
+    "indoor deaths": 4.461085259,
+    "outdoor deaths": 44.29541815
+  },
+  {
+    "country": "Guatemala",
+    "Code": "GTM",
+    "indoor deaths": 41.7569318,
+    "outdoor deaths": 23.51865404
+  },
+  {
+    "country": "Haiti",
+    "Code": "HTI",
+    "indoor deaths": 104.3040352,
+    "outdoor deaths": 14.98281938
+  },
+  {
+    "country": "Honduras",
+    "Code": "HND",
+    "indoor deaths": 34.67178164,
+    "outdoor deaths": 15.43252984
+  },
+  {
+    "country": "Jamaica",
+    "Code": "JAM",
+    "indoor deaths": 9.145154272,
+    "outdoor deaths": 31.30987774
+  },
+  {
+    "country": "Mexico",
+    "Code": "MEX",
+    "indoor deaths": 10.83211431,
+    "outdoor deaths": 30.12427379
+  },
+  {
+    "country": "Nicaragua",
+    "Code": "NIC",
+    "indoor deaths": 21.76492797,
+    "outdoor deaths": 10.92792158
+  },
+  {
+    "country": "Panama",
+    "Code": "PAN",
+    "indoor deaths": 6.050155506,
+    "outdoor deaths": 14.64861871
+  },
+  {
+    "country": "Puerto Rico",
+    "Code": "PRI",
+    "indoor deaths": 0.127165388,
+    "outdoor deaths": 15.7793304
+  },
+  {
+    "country": "Saint Lucia",
+    "Code": "LCA",
+    "indoor deaths": 5.211432825,
+    "outdoor deaths": 33.99965512
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "indoor deaths": 10.41422313,
+    "outdoor deaths": 38.2127147
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "Code": "TTO",
+    "indoor deaths": 0.870471807,
+    "outdoor deaths": 50.54986887
+  },
+  {
+    "country": "Tropical Latin America",
+    "Code": "",
+    "indoor deaths": 6.051460534,
+    "outdoor deaths": 22.75460603
+  },
+  {
+    "country": "United States",
+    "Code": "USA",
+    "indoor deaths": 0.089135041,
+    "outdoor deaths": 15.04392511
+  },
+  {
+    "country": "United States Virgin Islands",
+    "Code": "VIR",
+    "indoor deaths": 1.227088107,
+    "outdoor deaths": 28.26110512
+  }
+]
+}, {
+        name: 'North America',
+        data:[
+  {
+    "country": "Albania",
+    "Code": "ALB",
+    "indoor deaths": 18.28075417,
+    "outdoor deaths": 20.83739279
+  },
+  {
+    "country": "Andorra",
+    "Code": "AND",
+    "indoor deaths": 0.165664162,
+    "outdoor deaths": 13.08853102
+  },
+  {
+    "country": "Austria",
+    "Code": "AUT",
+    "indoor deaths": 0.266582585,
+    "outdoor deaths": 15.51928801
+  },
+  {
+    "country": "Belarus",
+    "Code": "BLR",
+    "indoor deaths": 0.692619198,
+    "outdoor deaths": 49.2121131
+  },
+  {
+    "country": "Belgium",
+    "Code": "BEL",
+    "indoor deaths": 0.104423222,
+    "outdoor deaths": 17.06045966
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "indoor deaths": 22.08164444,
+    "outdoor deaths": 34.10666537
+  },
+  {
+    "country": "Botswana",
+    "Code": "BWA",
+    "indoor deaths": 35.52118004,
+    "outdoor deaths": 31.33324547
+  },
+  {
+    "country": "Bulgaria",
+    "Code": "BGR",
+    "indoor deaths": 10.24999951,
+    "outdoor deaths": 39.32109162
+  },
+  {
+    "country": "Chile",
+    "Code": "CHL",
+    "indoor deaths": 2.937137106,
+    "outdoor deaths": 20.4121352
+  },
+  {
+    "country": "Croatia",
+    "Code": "HRV",
+    "indoor deaths": 4.654715055,
+    "outdoor deaths": 26.80349322
+  },
+  {
+    "country": "Cyprus",
+    "Code": "CYP",
+    "indoor deaths": 0.190199365,
+    "outdoor deaths": 23.39594606
+  },
+  {
+    "country": "Czechia",
+    "Code": "CZE",
+    "indoor deaths": 0.958861042,
+    "outdoor deaths": 27.47477476
+  },
+  {
+    "country": "Eastern Europe",
+    "Code": "",
+    "indoor deaths": 1.505015779,
+    "outdoor deaths": 44.88414818
+  },
+  {
+    "country": "Eastern Sub-Saharan Africa",
+    "Code": "",
+    "indoor deaths": 85.13807859,
+    "outdoor deaths": 18.84799267
+  },
+  {
+    "country": "Estonia",
+    "Code": "EST",
+    "indoor deaths": 3.932634445,
+    "outdoor deaths": 11.14902884
+  },
+  {
+    "country": "Finland",
+    "Code": "FIN",
+    "indoor deaths": 0.132150865,
+    "outdoor deaths": 7.635161604
+  },
+  {
+    "country": "France",
+    "Code": "FRA",
+    "indoor deaths": 0.088896866,
+    "outdoor deaths": 10.77740994
+  },
+  {
+    "country": "Germany",
+    "Code": "DEU",
+    "indoor deaths": 0.280507779,
+    "outdoor deaths": 17.59789792
+  },
+  {
+    "country": "Greece",
+    "Code": "GRC",
+    "indoor deaths": 0.286815452,
+    "outdoor deaths": 23.29515964
+  },
+  {
+    "country": "High SDI",
+    "Code": "",
+    "indoor deaths": 0.354243675,
+    "outdoor deaths": 15.55139016
+  },
+  {
+    "country": "High-income",
+    "Code": "",
+    "indoor deaths": 0.226914491,
+    "outdoor deaths": 14.3686032
+  },
+  {
+    "country": "High-income Asia Pacific",
+    "Code": "",
+    "indoor deaths": 0.024428684,
+    "outdoor deaths": 11.95518545
+  },
+  {
+    "country": "High-middle SDI",
+    "Code": "",
+    "indoor deaths": 6.118236754,
+    "outdoor deaths": 44.24607075
+  },
+  {
+    "country": "Hungary",
+    "Code": "HUN",
+    "indoor deaths": 8.064261557,
+    "outdoor deaths": 28.29100413
+  },
+  {
+    "country": "Iceland",
+    "Code": "ISL",
+    "indoor deaths": 0.135838285,
+    "outdoor deaths": 8.2722671
+  },
+  {
+    "country": "Ireland",
+    "Code": "IRL",
+    "indoor deaths": 0.230138765,
+    "outdoor deaths": 13.20875669
+  },
+  {
+    "country": "Italy",
+    "Code": "ITA",
+    "indoor deaths": 0.196540342,
+    "outdoor deaths": 14.9644511
+  },
+  {
+    "country": "Latvia",
+    "Code": "LVA",
+    "indoor deaths": 4.088657103,
+    "outdoor deaths": 29.68210194
+  },
+  {
+    "country": "Lithuania",
+    "Code": "LTU",
+    "indoor deaths": 0.955867699,
+    "outdoor deaths": 31.38625781
+  },
+  {
+    "country": "Low SDI",
+    "Code": "",
+    "indoor deaths": 83.00646642,
+    "outdoor deaths": 55.82968957
+  },
+  {
+    "country": "Low-middle SDI",
+    "Code": "",
+    "indoor deaths": 50.19592182,
+    "outdoor deaths": 50.0250972
+  },
+  {
+    "country": "Luxembourg",
+    "Code": "LUX",
+    "indoor deaths": 0.128038098,
+    "outdoor deaths": 13.84732255
+  },
+  {
+    "country": "Malta",
+    "Code": "MLT",
+    "indoor deaths": 0.278692043,
+    "outdoor deaths": 21.86008634
+  },
+  {
+    "country": "Moldova",
+    "Code": "MDA",
+    "indoor deaths": 9.420438637,
+    "outdoor deaths": 39.17150325
+  },
+  {
+    "country": "Montenegro",
+    "Code": "MNE",
+    "indoor deaths": 17.17675752,
+    "outdoor deaths": 29.61053759
+  },
+  {
+    "country": "Netherlands",
+    "Code": "NLD",
+    "indoor deaths": 0.085337111,
+    "outdoor deaths": 16.53646043
+  },
+  {
+    "country": "North Macedonia",
+    "Code": "MKD",
+    "indoor deaths": 12.37167132,
+    "outdoor deaths": 36.2529971
+  },
+  {
+    "country": "Norway",
+    "Code": "NOR",
+    "indoor deaths": 0.183158862,
+    "outdoor deaths": 9.153368442
+  },
+  {
+    "country": "Oceania",
+    "Code": "",
+    "indoor deaths": 167.3139068,
+    "outdoor deaths": 28.08293165
+  },
+  {
+    "country": "Poland",
+    "Code": "POL",
+    "indoor deaths": 3.316359351,
+    "outdoor deaths": 29.53041717
+  },
+  {
+    "country": "Portugal",
+    "Code": "PRT",
+    "indoor deaths": 0.623960069,
+    "outdoor deaths": 12.8132229
+  },
+  {
+    "country": "Romania",
+    "Code": "ROU",
+    "indoor deaths": 9.549933083,
+    "outdoor deaths": 29.52682308
+  },
+  {
+    "country": "Russia",
+    "Code": "RUS",
+    "indoor deaths": 0.163369309,
+    "outdoor deaths": 41.35818505
+  },
+  {
+    "country": "Scotland",
+    "Code": "",
+    "indoor deaths": 0.647409091,
+    "outdoor deaths": 14.11334894
+  },
+  {
+    "country": "Serbia",
+    "Code": "SRB",
+    "indoor deaths": 22.92674816,
+    "outdoor deaths": 37.63655417
+  },
+  {
+    "country": "Slovakia",
+    "Code": "SVK",
+    "indoor deaths": 1.629034885,
+    "outdoor deaths": 32.47774036
+  },
+  {
+    "country": "Slovenia",
+    "Code": "SVN",
+    "indoor deaths": 1.56563815,
+    "outdoor deaths": 16.79094781
+  },
+  {
+    "country": "Spain",
+    "Code": "ESP",
+    "indoor deaths": 0.439644465,
+    "outdoor deaths": 11.59834417
+  },
+  {
+    "country": "Sweden",
+    "Code": "SWE",
+    "indoor deaths": 0.175397016,
+    "outdoor deaths": 8.040952359
+  },
+  {
+    "country": "Switzerland",
+    "Code": "CHE",
+    "indoor deaths": 0.188247935,
+    "outdoor deaths": 10.03948849
+  },
+  {
+    "country": "Ukraine",
+    "Code": "UKR",
+    "indoor deaths": 4.875243395,
+    "outdoor deaths": 57.85280531
+  },
+  {
+    "country": "United Kingdom",
+    "Code": "GBR",
+    "indoor deaths": 0.248832546,
+    "outdoor deaths": 16.04766925
+  },
+  {
+    "country": "Western Europe",
+    "Code": "",
+    "indoor deaths": 0.237111235,
+    "outdoor deaths": 14.62037454
+  }
+]
+}]
